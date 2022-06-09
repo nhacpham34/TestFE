@@ -1,0 +1,29 @@
+:root {
+    --text-primary: #7E47C3;
+    --color-primary: #7E47C3;
+    --text-white: #fff;
+}
+
+* {
+    font-size: 16px;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color:unset;
+}
+ 
+.app {
+    position: relative;
+    overflow: hidden;
+}
+
+

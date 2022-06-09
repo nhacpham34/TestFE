@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.914" height="25.21" viewBox="0 0 128.914 25.21">
+  <g id="Group_6576" data-name="Group 6576" transform="translate(-158.914 -807.79)">
+    <g id="layout-4-blocks_1" data-name="layout-4-blocks 1" transform="translate(158.914 809)">
+      <g id="Group">
+        <path id="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M1.5,0h4A1.5,1.5,0,0,1,7,1.5v4A1.5,1.5,0,0,1,5.5,7h-4A1.5,1.5,0,0,1,0,5.5v-4A1.5,1.5,0,0,1,1.5,0Z" transform="translate(4 4)" fill="#c1a6ea"/>
+        <path id="Vector-3" data-name="Vector" d="M1.5,9h4A1.5,1.5,0,0,1,7,10.5v4A1.5,1.5,0,0,1,5.5,16h-4A1.5,1.5,0,0,1,0,14.5v-4A1.5,1.5,0,0,1,1.5,9Zm9-9h4A1.5,1.5,0,0,1,16,1.5v4A1.5,1.5,0,0,1,14.5,7h-4A1.5,1.5,0,0,1,9,5.5v-4A1.5,1.5,0,0,1,10.5,0Zm0,9h4A1.5,1.5,0,0,1,16,10.5v4A1.5,1.5,0,0,1,14.5,16h-4A1.5,1.5,0,0,1,9,14.5v-4A1.5,1.5,0,0,1,10.5,9Z" transform="translate(4 4)" fill="#c1a6ea" opacity="0.3"/>
+      </g>
+    </g>
+    <text id="It_is_enough_to_enter_keywords_or_companies" data-name="It is enough to enter keywords or companies" transform="translate(191.828 826.79)" fill="#4e5d78" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">案件PICKUP</tspan></text>
+  </g>
+</svg>

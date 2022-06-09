@@ -1,0 +1,27 @@
+<svg id="Group_116" data-name="Group 116" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="693" viewBox="0 0 1366 693">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.017" y1="0.126" x2="1.064" y2="1.057" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2d8bff"/>
+      <stop offset="1" stop-color="#9f74fb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.017" y1="0.099" x2="1.064" y2="1.06" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5799eb"/>
+      <stop offset="1" stop-color="#9f74fb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.017" y1="0.126" x2="1.064" y2="1.057" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#785ed5"/>
+      <stop offset="1" stop-color="#a35ed5"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle_7" data-name="Rectangle 7" d="M1366,0V517.011S1135.013,498.444,947.662,545.1,641.735,631.268,399.84,670.781,0,685.063,0,685.063V0Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <path id="Rectangle_1" data-name="Rectangle 1" d="M1268.674,494.751q49.067,0,96.373,2.124V0H0V667.075q59.86,3.118,124.382,3.218C617.6,670.292,842.717,494.751,1268.674,494.751Z" transform="translate(0.953 21.436)" fill="url(#linear-gradient-2)"/>
+  <g id="Mask_Group" data-name="Mask Group">
+    <path id="Rectangle_7-2" data-name="Rectangle 7" d="M1366,0V517.011S1135.013,498.444,947.662,545.1,641.735,631.268,399.84,670.781,0,685.063,0,685.063V0Z" fill="url(#linear-gradient-3)"/>
+    <g id="Mask_Group-2" data-name="Mask Group" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="248.536" cy="249.46" rx="248.536" ry="249.46" transform="translate(599.522 375.618)" fill="#fff" opacity="0.05"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="248.536" cy="249.46" rx="248.536" ry="249.46" transform="translate(-5.692 -328.012)" fill="#fff" opacity="0.02"/>
+    </g>
+  </g>
+</svg>
